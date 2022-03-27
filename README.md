@@ -17,5 +17,5 @@ git clone https://github.com/emin-skrijelj/arch-automated-installation
 ```
 ## Second Usage
 You can download an automated arch installation as a .iso file <a href="https://mega.nz/file/iloDkQCb#n9zsLtwbjZFj8K5uIbXuOgjBIkoTf1eIdAP1J678DEk">HERE</a>
-Just make an bootable usb drive with this .iso file and your auto installation arch linux as .iso file will be ready to go :D
-(note: this .iso file is a bit outdated since it hasn't been updates since this summer, there are some chances you get some error through the installation while downloading some packages.)
+. Just make an bootable usb drive with this .iso file and your auto installation arch linux as .iso file will be ready to go :D
+(note: this .iso file is a bit outdated since it hasn't been updates since this summer, there are some chances that you get some error through the installation while downloading some packages.)
