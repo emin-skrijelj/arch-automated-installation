@@ -12,8 +12,8 @@ Follow the installation instructions from https://wiki.archlinux.org/title/Insta
 From this state you can continue by cloning this repo and running the script, though it is recomended to complete the installation using ssh.
 ```
 pacman -Sy && pacman -S git
-git clone https://github.com/emin-skrijelj/Arch-Automated-Installation
-./Arch-Automated-Installation/arch-install.sh
+git clone https://github.com/emin-skrijelj/arch-automated-installation
+./arch-automated-installation/arch-install.sh
 ```
 ## Second Usage
 You can download an automated arch installation as a .iso file <a href="https://mega.nz/file/iloDkQCb#n9zsLtwbjZFj8K5uIbXuOgjBIkoTf1eIdAP1J678DEk">HERE</a>
